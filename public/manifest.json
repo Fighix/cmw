@@ -2,6 +2,11 @@
     "short_name": "short_name",
     "name": "name",
     "icons": [
+      {
+        "src": "ico.png",
+        "sizes": "225x225",
+        "type": "image/png"
+      }
     ],
     "start_url": ".",
     "scope": "/",
